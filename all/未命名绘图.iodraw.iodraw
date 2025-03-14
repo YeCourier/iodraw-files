@@ -40,14 +40,14 @@
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-16" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
           <mxGeometry x="314" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-22" value="查看失败，弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
+          <mxGeometry x="90" y="225" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
             <mxPoint x="280" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
