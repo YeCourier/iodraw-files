@@ -46,6 +46,15 @@
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-24" value="调取操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
           <mxGeometry x="470" y="350" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="485" as="sourcePoint" />
+            <mxPoint x="210" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-27" value="查看失败，弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
+          <mxGeometry x="90" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
@@ -59,10 +68,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="300" as="sourcePoint" />
-            <mxPoint x="440" y="250" as="targetPoint" />
+            <mxPoint x="280" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
