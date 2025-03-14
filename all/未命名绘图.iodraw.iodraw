@@ -25,15 +25,15 @@
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-9" value="申请查看操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
           <mxGeometry x="90" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
-          <mxGeometry x="490" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="是否有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
+          <mxGeometry x="490" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-9">
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AAIbtIIFI0j9mZ99z6Or-8" source="AAIbtIIFI0j9mZ99z6Or-9" target="AAIbtIIFI0j9mZ99z6Or-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
+            <mxPoint x="320" y="390" as="sourcePoint" />
+            <mxPoint x="370" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="195" />
+              <mxPoint x="530" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
