@@ -13,6 +13,9 @@
         <mxCell id="xBRT5WGu7eS8cSPICZUW-9" value="接收消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-4">
           <mxGeometry x="31" y="262" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xBRT5WGu7eS8cSPICZUW-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-4">
+          <mxGeometry x="71" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-3" value="用户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="210" height="580" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           <mxGeometry x="310" y="80" width="210" height="580" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-16">
-          <mxGeometry x="60" y="380" width="110" height="40" as="geometry" />
+          <mxGeometry x="49" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBRT5WGu7eS8cSPICZUW-11" target="xBRT5WGu7eS8cSPICZUW-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
