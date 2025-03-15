@@ -43,9 +43,6 @@
         <mxCell id="GN65NSo7pkGILqREzyIR-12" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
           <mxGeometry x="104" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GN65NSo7pkGILqREzyIR-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
-          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-13" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="230" height="680" as="geometry" />
         </mxCell>
@@ -80,15 +77,17 @@
         <mxCell id="GN65NSo7pkGILqREzyIR-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GN65NSo7pkGILqREzyIR-13">
           <mxGeometry x="90" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GN65NSo7pkGILqREzyIR-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13" target="GN65NSo7pkGILqREzyIR-36">
+        <mxCell id="GN65NSo7pkGILqREzyIR-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="130" as="sourcePoint" />
-            <mxPoint x="300" y="160" as="targetPoint" />
+            <mxPoint x="90" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="160" />
-              <mxPoint x="170" y="160" />
+              <mxPoint x="90" y="230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GN65NSo7pkGILqREzyIR-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-13">
+          <mxGeometry x="55" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-21" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="230" height="680" as="geometry" />
