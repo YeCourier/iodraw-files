@@ -26,7 +26,7 @@
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-9" value="申请查看操作日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
           <mxGeometry x="90" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="是否有权限" style="rhombus;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="距离下一个活动开始的时间" style="rhombus;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
           <mxGeometry x="510" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-16" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
@@ -61,16 +61,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="290" as="sourcePoint" />
             <mxPoint x="370" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-31" value="YES" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
-          <mxGeometry x="520" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="sourcePoint" />
-            <mxPoint x="600" y="360" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-24" edge="1">
