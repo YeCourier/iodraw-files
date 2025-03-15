@@ -75,9 +75,9 @@
           <mxGeometry x="62.5" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GN65NSo7pkGILqREzyIR-13">
-          <mxGeometry x="90" y="50" width="40" height="40" as="geometry" />
+          <mxGeometry x="87.5" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GN65NSo7pkGILqREzyIR-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13">
+        <mxCell id="GN65NSo7pkGILqREzyIR-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13" source="GN65NSo7pkGILqREzyIR-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="200" as="sourcePoint" />
             <mxPoint x="240" y="230" as="targetPoint" />
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-36" value="发送举报内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-13">
-          <mxGeometry x="55" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="120" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13" source="GN65NSo7pkGILqREzyIR-22" target="GN65NSo7pkGILqREzyIR-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
