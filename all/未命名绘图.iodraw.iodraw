@@ -11,7 +11,7 @@
           <mxGeometry x="231" y="20" width="219" height="680" as="geometry" />
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-3" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
-          <mxGeometry x="94" y="90" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-4" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
           <mxGeometry x="10" y="240" width="90" height="50" as="geometry" />
