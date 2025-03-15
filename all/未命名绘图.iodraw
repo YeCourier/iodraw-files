@@ -26,7 +26,7 @@
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-9" value="申请查看操作日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
           <mxGeometry x="90" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="&amp;nbsp; &amp;nbsp; 距离下一活动的&lt;div&gt;开始时间&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
+        <mxCell id="AAIbtIIFI0j9mZ99z6Or-11" value="&amp;nbsp;距离下一活动的&lt;div&gt;开始时间&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-16" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="AAIbtIIFI0j9mZ99z6Or-8" vertex="1">
