@@ -15,10 +15,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-2" value="学生" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="30" width="380" height="490" as="geometry" />
+          <mxGeometry x="150" y="30" width="340" height="490" as="geometry" />
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-3" value="系统" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="30" width="340" height="490" as="geometry" />
+          <mxGeometry x="490" y="30" width="300" height="490" as="geometry" />
         </mxCell>
         <mxCell id="AAIbtIIFI0j9mZ99z6Or-8" value="智能提醒" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="10" width="640" height="510" as="geometry" />
