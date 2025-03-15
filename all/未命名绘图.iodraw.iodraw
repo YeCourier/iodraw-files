@@ -32,7 +32,7 @@
           <mxGeometry x="75" y="247" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-13" value="成功" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
-          <mxGeometry x="200" y="260" width="60" height="40" as="geometry" />
+          <mxGeometry x="155" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
           <mxGeometry x="60" y="370" width="110" height="40" as="geometry" />
@@ -60,6 +60,9 @@
             <mxPoint x="387" y="395" as="sourcePoint" />
             <mxPoint x="520" y="367" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xBRT5WGu7eS8cSPICZUW-16" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
