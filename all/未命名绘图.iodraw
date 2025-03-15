@@ -99,6 +99,9 @@
         <mxCell id="5KmGDFG16d4x_xboU_7I-43" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
           <mxGeometry x="25" y="549" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5KmGDFG16d4x_xboU_7I-53" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
+          <mxGeometry x="95" y="612" width="60" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-16" value="C级管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="185" height="732" as="geometry" />
         </mxCell>
