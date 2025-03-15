@@ -61,8 +61,8 @@
         <mxCell id="5KmGDFG16d4x_xboU_7I-34" value="是否发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
           <mxGeometry x="65" y="538" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5KmGDFG16d4x_xboU_7I-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
-          <mxGeometry x="45" y="683" width="120" height="60" as="geometry" />
+        <mxCell id="5KmGDFG16d4x_xboU_7I-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
+          <mxGeometry x="65" y="683" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-16" value="C级管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="185" height="732" as="geometry" />
