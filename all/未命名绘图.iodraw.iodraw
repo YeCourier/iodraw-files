@@ -13,11 +13,11 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-22" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
           <mxGeometry x="84" y="115" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-16" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
+          <mxGeometry x="64" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-11" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="230" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-16" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
-          <mxGeometry x="45" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-17" value="审核通过&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="45" y="433" width="120" height="60" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="454" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
