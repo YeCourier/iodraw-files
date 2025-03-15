@@ -23,7 +23,7 @@
           <mxGeometry x="95" y="50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-7" value="上传新闻稿" style="rounded=0;whiteSpace=wrap;html=1;" parent="xBRT5WGu7eS8cSPICZUW-3" vertex="1">
-          <mxGeometry x="55" y="140" width="120" height="50" as="geometry" />
+          <mxGeometry x="55" y="119" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xBRT5WGu7eS8cSPICZUW-3" source="xBRT5WGu7eS8cSPICZUW-5" target="xBRT5WGu7eS8cSPICZUW-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
