@@ -86,6 +86,12 @@
             <mxPoint x="337" y="743" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5KmGDFG16d4x_xboU_7I-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xBRT5WGu7eS8cSPICZUW-3" source="5KmGDFG16d4x_xboU_7I-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287" y="793" as="sourcePoint" />
+            <mxPoint x="89" y="941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-16" value="C级管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="185" height="732" as="geometry" />
         </mxCell>
@@ -154,12 +160,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="773" as="sourcePoint" />
             <mxPoint x="205" y="900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5KmGDFG16d4x_xboU_7I-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5KmGDFG16d4x_xboU_7I-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="873" as="sourcePoint" />
-            <mxPoint x="437" y="823" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
