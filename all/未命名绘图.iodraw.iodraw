@@ -61,6 +61,16 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-55" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="75" y="512.5" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fWywyc4E1OZTrVafT2_R-11" source="fWywyc4E1OZTrVafT2_R-55" target="fWywyc4E1OZTrVafT2_R-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="30" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="553" />
+              <mxPoint x="30" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-20" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="230" height="680" as="geometry" />
         </mxCell>
@@ -134,15 +144,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="260.5" y="602.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="130" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="130" y="633" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
