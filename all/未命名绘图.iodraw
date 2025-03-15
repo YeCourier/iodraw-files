@@ -28,6 +28,9 @@
         <mxCell id="5KmGDFG16d4x_xboU_7I-18" value="失败" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-4">
           <mxGeometry x="12.5" y="328" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xBRT5WGu7eS8cSPICZUW-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" parent="xBRT5WGu7eS8cSPICZUW-4" vertex="1">
+          <mxGeometry x="112.5" y="496" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-3" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="210" height="580" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
             <mxPoint x="235" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KmGDFG16d4x_xboU_7I-8" value="新闻稿未通过&lt;div&gt;发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
+        <mxCell id="5KmGDFG16d4x_xboU_7I-8" value="新闻稿未通过&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
           <mxGeometry x="45" y="328" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5KmGDFG16d4x_xboU_7I-21" value="新闻稿通过&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
@@ -69,9 +72,6 @@
         </mxCell>
         <mxCell id="5KmGDFG16d4x_xboU_7I-10" value="失败" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-16">
           <mxGeometry x="-5" y="219" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xBRT5WGu7eS8cSPICZUW-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" parent="xBRT5WGu7eS8cSPICZUW-16" vertex="1">
-          <mxGeometry x="107" y="517" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KmGDFG16d4x_xboU_7I-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xBRT5WGu7eS8cSPICZUW-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
