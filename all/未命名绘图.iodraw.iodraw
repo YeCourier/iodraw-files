@@ -56,7 +56,13 @@
           <mxGeometry x="45" y="433" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6XOYEfL5XfWTBOrmYqnO-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="6XOYEfL5XfWTBOrmYqnO-8">
-          <mxGeometry x="89.5" y="925" width="31" height="31" as="geometry" />
+          <mxGeometry x="89.5" y="550" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="6XOYEfL5XfWTBOrmYqnO-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6XOYEfL5XfWTBOrmYqnO-8" source="6XOYEfL5XfWTBOrmYqnO-14" target="6XOYEfL5XfWTBOrmYqnO-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6XOYEfL5XfWTBOrmYqnO-26" value="B级管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="185" height="970" as="geometry" />
