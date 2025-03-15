@@ -55,7 +55,7 @@
             <mxPoint x="-50" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-36" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-20">
+        <mxCell id="fWywyc4E1OZTrVafT2_R-36" value="弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-20">
           <mxGeometry x="70" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-13" target="fWywyc4E1OZTrVafT2_R-22">
