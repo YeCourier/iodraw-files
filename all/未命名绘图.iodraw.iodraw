@@ -10,7 +10,7 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-32" value="系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-1">
           <mxGeometry x="231" y="20" width="219" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-22" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
+        <mxCell id="fWywyc4E1OZTrVafT2_R-22" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
           <mxGeometry x="84" y="115" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-11" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
             <mxPoint x="-50" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-13" target="fWywyc4E1OZTrVafT2_R-22">
+        <mxCell id="fWywyc4E1OZTrVafT2_R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-13" target="fWywyc4E1OZTrVafT2_R-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="395" as="sourcePoint" />
             <mxPoint x="510" y="235" as="targetPoint" />
