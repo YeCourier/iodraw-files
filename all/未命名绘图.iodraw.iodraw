@@ -16,7 +16,7 @@
         <mxCell id="61pG-Yxyry7edcoKf-xy-3" value="系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="340" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="61pG-Yxyry7edcoKf-xy-4" value="日志记录" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="61pG-Yxyry7edcoKf-xy-4" value="数据监控看板" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="720" height="510" as="geometry" />
         </mxCell>
         <mxCell id="61pG-Yxyry7edcoKf-xy-5" value="申请查看操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="61pG-Yxyry7edcoKf-xy-4">
