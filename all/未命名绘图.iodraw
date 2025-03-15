@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xBRT5WGu7eS8cSPICZUW-1" value="新闻稿功能" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="99" y="60" width="630" height="751" as="geometry" />
+          <mxGeometry x="99" y="60" width="630" height="930" as="geometry" />
         </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-4" value="B级管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="xBRT5WGu7eS8cSPICZUW-1" vertex="1">
           <mxGeometry x="397" y="20" width="233" height="650" as="geometry" />
@@ -124,10 +124,8 @@
         <mxCell id="5KmGDFG16d4x_xboU_7I-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5KmGDFG16d4x_xboU_7I-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="573" as="sourcePoint" />
-            <mxPoint x="210" y="758" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="413" y="549" />
-            </Array>
+            <mxPoint x="205" y="764" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
