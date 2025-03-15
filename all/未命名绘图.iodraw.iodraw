@@ -34,6 +34,9 @@
         <mxCell id="xBRT5WGu7eS8cSPICZUW-13" value="成功" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
           <mxGeometry x="200" y="260" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xBRT5WGu7eS8cSPICZUW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-3">
+          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xBRT5WGu7eS8cSPICZUW-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="395" as="sourcePoint" />
