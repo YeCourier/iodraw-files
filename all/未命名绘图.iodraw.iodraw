@@ -58,6 +58,9 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-44" value="弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="70.5" y="430" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
+          <mxGeometry x="70.5" y="430" width="89.5" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-20" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="230" height="680" as="geometry" />
         </mxCell>
