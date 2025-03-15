@@ -43,6 +43,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-45" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
+          <mxGeometry x="25" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-11" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="230" height="680" as="geometry" />
         </mxCell>
@@ -51,6 +54,9 @@
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="100" y="520" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-44" value="弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
+          <mxGeometry x="70.5" y="430" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-20" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="230" height="680" as="geometry" />
