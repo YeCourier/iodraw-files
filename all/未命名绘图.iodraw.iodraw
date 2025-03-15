@@ -37,9 +37,9 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="fWywyc4E1OZTrVafT2_R-32" source="fWywyc4E1OZTrVafT2_R-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="77" y="420" as="sourcePoint" />
-            <mxPoint x="243" y="455" as="targetPoint" />
+            <mxPoint x="-70" y="455" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="77" y="455" />
+              <mxPoint x="80" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
