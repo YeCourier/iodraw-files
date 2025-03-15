@@ -13,6 +13,9 @@
         <mxCell id="5KmGDFG16d4x_xboU_7I-4" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-4">
           <mxGeometry x="54" y="220" width="117" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="5KmGDFG16d4x_xboU_7I-5" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xBRT5WGu7eS8cSPICZUW-4">
+          <mxGeometry x="72.5" y="318" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-3" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="210" height="580" as="geometry" />
         </mxCell>
