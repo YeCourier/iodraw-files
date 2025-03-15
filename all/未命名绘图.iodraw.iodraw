@@ -49,7 +49,7 @@
             <mxPoint x="235" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6XOYEfL5XfWTBOrmYqnO-13" value="新闻稿未通过&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOYEfL5XfWTBOrmYqnO-8">
+        <mxCell id="6XOYEfL5XfWTBOrmYqnO-13" value="审核失败&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOYEfL5XfWTBOrmYqnO-8">
           <mxGeometry x="45" y="328" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6XOYEfL5XfWTBOrmYqnO-14" value="新闻稿通过&lt;div&gt;系统发送通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOYEfL5XfWTBOrmYqnO-8">
