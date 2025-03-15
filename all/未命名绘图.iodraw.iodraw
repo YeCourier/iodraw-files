@@ -52,9 +52,6 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-17" value="递交信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="62.5" y="242.5" width="105" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="fWywyc4E1OZTrVafT2_R-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
-          <mxGeometry x="100" y="520" width="31" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-44" value="弹窗通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-11">
           <mxGeometry x="70.5" y="430" width="90" height="50" as="geometry" />
         </mxCell>
@@ -122,6 +119,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="694" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="550" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
