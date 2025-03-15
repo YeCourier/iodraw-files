@@ -31,6 +31,9 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-38" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
           <mxGeometry x="130" y="200" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fWywyc4E1OZTrVafT2_R-42" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fWywyc4E1OZTrVafT2_R-32">
+          <mxGeometry x="40" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-11" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="230" height="680" as="geometry" />
         </mxCell>
@@ -82,7 +85,7 @@
         <mxCell id="fWywyc4E1OZTrVafT2_R-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWywyc4E1OZTrVafT2_R-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="215" y="410" as="targetPoint" />
+            <mxPoint x="215" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fWywyc4E1OZTrVafT2_R-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
