@@ -64,7 +64,7 @@
             <mxPoint x="500" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fu8aO6Uv24Qxb63AQZXw-10" value="通过" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
+        <mxCell id="fu8aO6Uv24Qxb63AQZXw-10" value="未通过" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AAIbtIIFI0j9mZ99z6Or-8">
           <mxGeometry x="450" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fu8aO6Uv24Qxb63AQZXw-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-0">
@@ -77,6 +77,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="400" as="sourcePoint" />
             <mxPoint x="640" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu8aO6Uv24Qxb63AQZXw-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AAIbtIIFI0j9mZ99z6Or-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
