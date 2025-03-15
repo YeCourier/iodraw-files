@@ -19,9 +19,6 @@
         <mxCell id="GN65NSo7pkGILqREzyIR-6" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
           <mxGeometry x="130" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GN65NSo7pkGILqREzyIR-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
-          <mxGeometry x="130" y="350" width="31" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-44" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GN65NSo7pkGILqREzyIR-2">
           <mxGeometry x="30" y="210" width="80" height="80" as="geometry" />
         </mxCell>
@@ -50,6 +47,15 @@
             <Array as="points">
               <mxPoint x="300" y="325" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN65NSo7pkGILqREzyIR-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="GN65NSo7pkGILqREzyIR-13">
+          <mxGeometry x="120" y="340" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="GN65NSo7pkGILqREzyIR-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GN65NSo7pkGILqREzyIR-13" source="GN65NSo7pkGILqREzyIR-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="300" as="sourcePoint" />
+            <mxPoint x="205" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GN65NSo7pkGILqREzyIR-21" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
