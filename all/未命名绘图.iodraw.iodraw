@@ -32,6 +32,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3AzCWjfAf4wr5toQCwe1-18" value="主页面显示系统推荐的活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AzCWjfAf4wr5toQCwe1-3">
+          <mxGeometry x="80" y="160" width="150" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="3AzCWjfAf4wr5toQCwe1-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3AzCWjfAf4wr5toQCwe1-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="300" as="sourcePoint" />
