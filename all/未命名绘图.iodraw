@@ -80,6 +80,12 @@
         <mxCell id="xBRT5WGu7eS8cSPICZUW-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" parent="xBRT5WGu7eS8cSPICZUW-3" vertex="1">
           <mxGeometry x="89.5" y="925" width="31" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="5KmGDFG16d4x_xboU_7I-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xBRT5WGu7eS8cSPICZUW-3" source="5KmGDFG16d4x_xboU_7I-39" target="xBRT5WGu7eS8cSPICZUW-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287" y="793" as="sourcePoint" />
+            <mxPoint x="337" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xBRT5WGu7eS8cSPICZUW-16" value="C级管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="185" height="732" as="geometry" />
         </mxCell>
