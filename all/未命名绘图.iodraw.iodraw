@@ -7,6 +7,9 @@
         <mxCell id="xBRT5WGu7eS8cSPICZUW-1" value="通信功能" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="60" width="630" height="600" as="geometry" />
         </mxCell>
+        <mxCell id="xBRT5WGu7eS8cSPICZUW-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="320" height="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
