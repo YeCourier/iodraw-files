@@ -22,6 +22,9 @@
         <mxCell id="UKScQChzhlFxhsYYsact-8" value="弹窗显示设置结果&lt;div&gt;（成功/失败）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UKScQChzhlFxhsYYsact-3">
           <mxGeometry x="90" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UKScQChzhlFxhsYYsact-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UKScQChzhlFxhsYYsact-3">
+          <mxGeometry x="130" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="UKScQChzhlFxhsYYsact-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UKScQChzhlFxhsYYsact-1" source="UKScQChzhlFxhsYYsact-6" target="UKScQChzhlFxhsYYsact-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="340" as="sourcePoint" />
@@ -34,10 +37,10 @@
             <mxPoint x="245" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKScQChzhlFxhsYYsact-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UKScQChzhlFxhsYYsact-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKScQChzhlFxhsYYsact-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
+            <mxPoint x="550" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
