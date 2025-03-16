@@ -7,11 +7,11 @@
         <mxCell id="UKScQChzhlFxhsYYsact-1" value="设置学生干部" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="90" y="60" width="630" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="UKScQChzhlFxhsYYsact-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="UKScQChzhlFxhsYYsact-1">
+        <mxCell id="UKScQChzhlFxhsYYsact-2" value="学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="UKScQChzhlFxhsYYsact-1">
           <mxGeometry y="20" width="310" height="580" as="geometry" />
         </mxCell>
         <mxCell id="UKScQChzhlFxhsYYsact-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="UKScQChzhlFxhsYYsact-1">
-          <mxGeometry x="310" y="20" width="310" height="580" as="geometry" />
+          <mxGeometry x="310" y="20" width="320" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
