@@ -28,6 +28,18 @@
         <mxCell id="xMIZPNXGzHs-QbXXtMBP-12" value="是否符合&lt;div&gt;报名要求&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-3">
           <mxGeometry x="90" y="175" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-3">
+          <mxGeometry x="-10" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xMIZPNXGzHs-QbXXtMBP-3" source="xMIZPNXGzHs-QbXXtMBP-12" target="xMIZPNXGzHs-QbXXtMBP-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="sourcePoint" />
+            <mxPoint x="30" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xMIZPNXGzHs-QbXXtMBP-4" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-1">
           <mxGeometry x="480" y="20" width="240" height="550" as="geometry" />
         </mxCell>
@@ -57,18 +69,6 @@
               <mxPoint x="455" y="420" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xMIZPNXGzHs-QbXXtMBP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xMIZPNXGzHs-QbXXtMBP-12" target="xMIZPNXGzHs-QbXXtMBP-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="350" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xMIZPNXGzHs-QbXXtMBP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
