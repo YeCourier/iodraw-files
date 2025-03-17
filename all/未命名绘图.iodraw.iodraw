@@ -26,7 +26,7 @@
           <mxGeometry x="240" y="20" width="240" height="550" as="geometry" />
         </mxCell>
         <mxCell id="xMIZPNXGzHs-QbXXtMBP-12" value="是否符合&lt;div&gt;报名要求&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-3">
-          <mxGeometry x="90" y="180" width="90" height="90" as="geometry" />
+          <mxGeometry x="90" y="175" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xMIZPNXGzHs-QbXXtMBP-4" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-1">
           <mxGeometry x="480" y="20" width="240" height="550" as="geometry" />
