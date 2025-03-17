@@ -40,6 +40,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-22" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-3">
+          <mxGeometry x="10" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-24" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-3">
+          <mxGeometry x="120" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="xMIZPNXGzHs-QbXXtMBP-4" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xMIZPNXGzHs-QbXXtMBP-1">
           <mxGeometry x="480" y="20" width="240" height="550" as="geometry" />
         </mxCell>
@@ -103,9 +109,6 @@
               <mxPoint x="455" y="420" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xMIZPNXGzHs-QbXXtMBP-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
