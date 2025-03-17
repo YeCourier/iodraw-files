@@ -37,14 +37,17 @@
             <mxPoint x="570" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMIZPNXGzHs-QbXXtMBP-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xMIZPNXGzHs-QbXXtMBP-9">
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xMIZPNXGzHs-QbXXtMBP-1" source="xMIZPNXGzHs-QbXXtMBP-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="510" y="320" as="targetPoint" />
+            <mxPoint x="310" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="320" />
+              <mxPoint x="600" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xMIZPNXGzHs-QbXXtMBP-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
