@@ -19,7 +19,7 @@
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-3" value="系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-1">
           <mxGeometry x="340" y="20" width="330" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="K4B1_K0ojK2gBM6WMtc0-8" value="是否成功关注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-3">
+        <mxCell id="K4B1_K0ojK2gBM6WMtc0-8" value="判断是否成功关注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-3">
           <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K4B1_K0ojK2gBM6WMtc0-1" source="K4B1_K0ojK2gBM6WMtc0-6" target="K4B1_K0ojK2gBM6WMtc0-8">
@@ -37,11 +37,14 @@
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K4B1_K0ojK2gBM6WMtc0-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="560" y="450" as="targetPoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K4B1_K0ojK2gBM6WMtc0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
