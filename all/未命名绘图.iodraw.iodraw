@@ -19,6 +19,9 @@
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-10" value="弹窗反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-2">
           <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="K4B1_K0ojK2gBM6WMtc0-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-2">
+          <mxGeometry x="130" y="385" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-3" value="系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-1">
           <mxGeometry x="340" y="20" width="330" height="540" as="geometry" />
         </mxCell>
@@ -46,10 +49,10 @@
             <mxPoint x="230" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K4B1_K0ojK2gBM6WMtc0-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="K4B1_K0ojK2gBM6WMtc0-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K4B1_K0ojK2gBM6WMtc0-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
+            <mxPoint x="230" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
