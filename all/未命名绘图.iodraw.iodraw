@@ -7,11 +7,11 @@
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-1" value="关注学生组织" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="670" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="K4B1_K0ojK2gBM6WMtc0-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-1">
+        <mxCell id="K4B1_K0ojK2gBM6WMtc0-2" value="学生" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-1">
           <mxGeometry y="20" width="340" height="540" as="geometry" />
         </mxCell>
         <mxCell id="K4B1_K0ojK2gBM6WMtc0-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K4B1_K0ojK2gBM6WMtc0-1">
-          <mxGeometry x="350" y="20" width="320" height="540" as="geometry" />
+          <mxGeometry x="340" y="20" width="330" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
